@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍀 ideatosh Monterey - ideapad-310s-14isk 專用 EFI
+# 🍀 ideatosh Monterey on [ideapad-310s-14isk-EFI]
 ## By AriesLinux 
 
 <img src="https://github.com/AriesLinux/-ideapad-310s-14isk-EFI/blob/main/CloverIcon.png" width="150" alt="Clover Logo">
