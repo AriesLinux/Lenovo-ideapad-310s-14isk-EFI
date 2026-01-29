@@ -13,7 +13,7 @@
   <strong>基於 Clover 引導的黑蘋果 EFI 配置</strong>
 </p>
 
-[English](./README_EN.md) | [简体中文](./README.md) | [繁體中文](./README_TC.md)
+[English](./README_EN.md) | [简体中文](./README.md) | [繁體中文](./README_TW.md) | [粵語版本](./README_HK.md)
 
 </div>
 
