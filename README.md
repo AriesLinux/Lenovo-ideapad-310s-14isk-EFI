@@ -3,7 +3,7 @@
 # 🍀 ideatosh Monterey on [ideapad-310s-14isk-EFI]
 ## By AriesLinux 
 
-<img src="https://private-user-images.githubusercontent.com/6248794/535966405-2b7ae962-9b9e-4944-8235-8b1693043594.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njk2OTAyNzgsIm5iZiI6MTc2OTY4OTk3OCwicGF0aCI6Ii82MjQ4Nzk0LzUzNTk2NjQwNS0yYjdhZTk2Mi05YjllLTQ5NDQtODIzNS04YjE2OTMwNDM1OTQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDEyOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjAxMjlUMTIzMjU4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YzkzYjM1MjdjMjVjOGIxNTlhYjg4OTkzYzhmMGE1NWNmMTgxNjhjYWY2MDg4YzAyMGFjNGRkMzdlNDQzMDkzMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.q2jcZHAj6Rvwe4l3mrn1RqmM0OAPzttB5Ly1lzyamoA" width="150" alt="Clover Logo">
+<img src="https://github.com/AriesLinux/-ideapad-310s-14isk-EFI/blob/main/CloverIcon.png" width="150" alt="Clover Logo">
 
 ![Clover](https://img.shields.io/badge/Clover-v5150+-green?style=for-the-badge&logo=leaf&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-Monterey%20(12.x)-white?style=for-the-badge&logo=apple)
