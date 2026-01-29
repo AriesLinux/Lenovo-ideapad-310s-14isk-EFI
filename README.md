@@ -13,7 +13,7 @@
   <strong>基于 Clover 引导的黑苹果EFI</strong>
 </p>
 
-[English](./README_EN.md) | [简体中文](./README.md)
+[English](./README_EN.md) | [简体中文](./README.md) | [繁體中文](./README_TW.md) | [粵語版本](./README_HK.md)
 
 </div>
 
