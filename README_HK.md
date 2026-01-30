@@ -10,7 +10,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 <p align="center">
-  <strong>基於 Clover 導引嘅黑蘋果 EFI 配置</strong>
+  <strong>基於 Clover 導引嘅黑蘋果 EFI</strong>
 </p>
 
 [English](./README_EN.md) | [简体中文](./README.md) | [繁體中文](./README_TW.md) | [粵語版本](./README_HK.md)
@@ -70,26 +70,26 @@
 **玩 macOS 12 Monterey 嘅重點：**
 
 1.  **Quirks 設置**:
-    macOS 12 好依賴 `OpenRuntime.efi`，呢份 EFI 已經喺 `config.plist` -> `Quirks` 度執好晒。**唔好手痕隨便改動佢**，除非你真係好清楚自己做緊乜。
+    macOS 12 好依賴 `OpenRuntime.efi`，呢份 EFI 已經喺 `config.plist` -> `Quirks` 度執好晒，**唔好手痕隨便改動佢**，除非你真係好清楚自己做緊乜
 
 2.  **Kext 位置**:
-    所有 Kext 驅動都擺喺 `EFI/CLOVER/kexts/Other` 入面。記得檢查 `Inject Kexts` 係咪 set 做 `Yes` 或者 `Detect`。
+    所有 Kext 驅動都擺喺 `EFI/CLOVER/kexts/Other` 入面，記得檢查 `Inject Kexts` 係咪 set 做 `Yes` 或者 `Detect`
 
 3.  **搞返好個 SMBIOS**:
     雖然入面已經有個預設嘅 SMBIOS，但我**強烈建議**你用 **Clover Configurator** 重新整過一組新嘅序列號：
     * `Serial Number`
     * `Board Serial Number`
     * `SmUUID`
-    * 記得 Check 埋 `RtVariables` 入面個 `ROM` 同 `MLB`。
+    * 記得 Check 埋 `RtVariables` 入面個 `ROM` 同 `MLB`
 
 4.  **維護工具**:
-    建議用最新版嘅 [Clover Configurator](https://mackie100projects.altervista.org/clover-configurator/) 嚟改 `config.plist`。
+    建議用最新版嘅 [Clover Configurator](https://mackie100projects.altervista.org/clover-configurator/) 嚟改 `config.plist`
 
 ## 👏 鳴謝 (Credits)
 
-* [CloverHackyColor](https://github.com/CloverHackyColor/CloverBootloader) 搞出嚟嘅 Clover Bootloader。
-* [Acidanthera](https://github.com/acidanthera) 提供 OpenRuntime, Lilu, WhateverGreen 呢啲咁重要嘅 Kext。
-* [Slice](https://github.com/Slice) 同埋一眾 Clover 貢獻者。
+* [CloverHackyColor](https://github.com/CloverHackyColor/CloverBootloader) 搞出嚟嘅 Clover Bootloader
+* [Acidanthera](https://github.com/acidanthera) 提供 OpenRuntime, Lilu, WhateverGreen 呢啲咁重要嘅 Kext
+* [Slice](https://github.com/Slice) 同埋一眾 Clover 貢獻者
 
 ---
 
