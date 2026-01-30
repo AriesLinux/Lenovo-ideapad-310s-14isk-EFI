@@ -69,26 +69,26 @@
 **針對 macOS 12 Monterey 的關鍵設置：**
 
 1.  **Quirks 設置**:
-    macOS 12 極大依賴 `OpenRuntime.efi`，本 EFI 已在 `config.plist` -> `Quirks` 中進行了相關配置。**請勿隨意更改 Quirks 部分的勾選**，除非你非常清楚它們的作用。
+    macOS 12 極大依賴 `OpenRuntime.efi`，本 EFI 已在 `config.plist` -> `Quirks` 中進行了相關配置，**請勿隨意更改 Quirks 部分的勾選**，除非你非常清楚它們的作用
 
 2.  **Kext 位置**:
-    所有驅動均放置在 `EFI/CLOVER/kexts/Other` 目錄下，請確保 `Inject Kexts` 設置為 `Yes` 或 `Detect`。
+    所有驅動均放置在 `EFI/CLOVER/kexts/Other` 目錄下，請確保 `Inject Kexts` 設置為 `Yes` 或 `Detect`
 
 3.  **生成 SMBIOS**:
     雖然已經內建一個預設的 SMBIOS，但強烈建議將本配置文件中的序列號清除，並使用 **Clover Configurator** 生成新的：
     * `Serial Number`
     * `Board Serial Number`
     * `SmUUID`
-    * 務必檢查 `RtVariables` -> `ROM` 和 `MLB`。
+    * 務必檢查 `RtVariables` -> `ROM` 和 `MLB`
 
 4.  **維護工具**:
-    建議使用最新版的 [Clover Configurator](https://mackie100projects.altervista.org/clover-configurator/) 來編輯 `config.plist`。
+    建議使用最新版的 [Clover Configurator](https://mackie100projects.altervista.org/clover-configurator/) 來編輯 `config.plist`
 
 ## 👏 鳴謝 (Credits)
 
-* [CloverHackyColor](https://github.com/CloverHackyColor/CloverBootloader) 維護的 Clover Bootloader 專案。
-* [Acidanthera](https://github.com/acidanthera) 提供 OpenRuntime, Lilu, WhateverGreen 等核心驅動。
-* [Slice](https://github.com/Slice) 及所有 Clover 的貢獻者。
+* [CloverHackyColor](https://github.com/CloverHackyColor/CloverBootloader) 維護的 Clover Bootloader 專案
+* [Acidanthera](https://github.com/acidanthera) 提供 OpenRuntime, Lilu, WhateverGreen 等核心驅動
+* [Slice](https://github.com/Slice) 及所有 Clover 的貢獻者
 
 ---
 
