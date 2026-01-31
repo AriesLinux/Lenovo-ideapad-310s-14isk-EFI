@@ -7,7 +7,6 @@
 
 ![Clover](https://img.shields.io/badge/Clover-v5150+-green?style=for-the-badge&logo=leaf&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-Monterey%20(12.x)-white?style=for-the-badge&logo=apple)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 <p align="center">
   <strong>基于 Clover 引导的黑苹果EFI</strong>
