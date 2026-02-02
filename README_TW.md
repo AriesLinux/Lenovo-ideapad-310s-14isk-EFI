@@ -3,7 +3,8 @@
 # 🍀 ideatosh Monterey on [ideapad-310s-14isk-EFI]
 ## By AriesLinux 
 
-<img src="https://github.com/AriesLinux/-ideapad-310s-14isk-EFI/blob/main/CloverIcon.png" width="150" alt="Clover Logo">
+<img src="https://github.com/AriesLinux/Lenovo-ideapad-310s-14isk-EFI/blob/main/ideatosh%20LOGO.png" width="400" alt="ideatosh Logo">
+
 
 ![Clover](https://img.shields.io/badge/Clover-v5150+-green?style=for-the-badge&logo=leaf&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-Monterey%20(12.x)-white?style=for-the-badge&logo=apple)
